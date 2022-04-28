@@ -1,0 +1,6 @@
+.th,td{
+    border: 3px solid black;
+    border-collapse: collapse ;
+    Border-style:groove;
+    text-align: left;
+}
